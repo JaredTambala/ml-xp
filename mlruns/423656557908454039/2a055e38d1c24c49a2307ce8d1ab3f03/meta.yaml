@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jared/ml-xp/mlruns/423656557908454039/2a055e38d1c24c49a2307ce8d1ab3f03/artifacts
+end_time: 1722551083100
+entry_point_name: ''
+experiment_id: '423656557908454039'
+lifecycle_stage: active
+run_id: 2a055e38d1c24c49a2307ce8d1ab3f03
+run_name: upbeat-gnat-89
+run_uuid: 2a055e38d1c24c49a2307ce8d1ab3f03
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722551080417
+status: 3
+tags: []
+user_id: jared

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jared/ml-xp/mlruns/423656557908454039/23f9d036d0c64aa6a0e44beeab431af9/artifacts
+end_time: 1722551074842
+entry_point_name: ''
+experiment_id: '423656557908454039'
+lifecycle_stage: active
+run_id: 23f9d036d0c64aa6a0e44beeab431af9
+run_name: resilient-ape-907
+run_uuid: 23f9d036d0c64aa6a0e44beeab431af9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722551072103
+status: 3
+tags: []
+user_id: jared

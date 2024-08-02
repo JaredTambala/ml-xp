@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jared/ml-xp/mlruns/423656557908454039/03eec87548984713943e53dd3efb7c57/artifacts
+end_time: 1722551030959
+entry_point_name: ''
+experiment_id: '423656557908454039'
+lifecycle_stage: active
+run_id: 03eec87548984713943e53dd3efb7c57
+run_name: flawless-duck-742
+run_uuid: 03eec87548984713943e53dd3efb7c57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722551028185
+status: 3
+tags: []
+user_id: jared

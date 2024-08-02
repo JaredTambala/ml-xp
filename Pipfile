@@ -5,6 +5,14 @@ name = "pypi"
 
 [packages]
 mlflow = "*"
+ipykernel = "*"
+pandas = "*"
+keras = "*"
+scikit-learn = "*"
+hyperopt = "*"
+tensorflow = "*"
+gast = "*"
+virtualenv = "*"
 
 [dev-packages]
 

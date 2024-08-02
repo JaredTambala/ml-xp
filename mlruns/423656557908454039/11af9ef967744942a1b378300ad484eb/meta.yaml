@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jared/ml-xp/mlruns/423656557908454039/11af9ef967744942a1b378300ad484eb/artifacts
+end_time: 1722551028167
+entry_point_name: ''
+experiment_id: '423656557908454039'
+lifecycle_stage: active
+run_id: 11af9ef967744942a1b378300ad484eb
+run_name: upbeat-smelt-696
+run_uuid: 11af9ef967744942a1b378300ad484eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722551025342
+status: 3
+tags: []
+user_id: jared

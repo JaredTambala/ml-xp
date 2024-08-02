@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jared/ml-xp/mlruns/423656557908454039/d18913943815495a83564901c24d3e8f/artifacts
+end_time: 1722550995877
+entry_point_name: ''
+experiment_id: '423656557908454039'
+lifecycle_stage: active
+run_id: d18913943815495a83564901c24d3e8f
+run_name: big-bat-215
+run_uuid: d18913943815495a83564901c24d3e8f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722550970592
+status: 3
+tags: []
+user_id: jared

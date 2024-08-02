@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jared/ml-xp/mlruns/423656557908454039/2670e186f7944336b800f3dc0003bc97/artifacts
+end_time: 1722551036522
+entry_point_name: ''
+experiment_id: '423656557908454039'
+lifecycle_stage: active
+run_id: 2670e186f7944336b800f3dc0003bc97
+run_name: unleashed-sloth-469
+run_uuid: 2670e186f7944336b800f3dc0003bc97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722551033749
+status: 3
+tags: []
+user_id: jared

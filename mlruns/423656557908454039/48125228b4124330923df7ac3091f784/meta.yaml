@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jared/ml-xp/mlruns/423656557908454039/48125228b4124330923df7ac3091f784/artifacts
+end_time: 1722551063859
+entry_point_name: ''
+experiment_id: '423656557908454039'
+lifecycle_stage: active
+run_id: 48125228b4124330923df7ac3091f784
+run_name: colorful-ray-569
+run_uuid: 48125228b4124330923df7ac3091f784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722551060514
+status: 3
+tags: []
+user_id: jared

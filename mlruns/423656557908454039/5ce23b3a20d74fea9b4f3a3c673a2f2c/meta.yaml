@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jared/ml-xp/mlruns/423656557908454039/5ce23b3a20d74fea9b4f3a3c673a2f2c/artifacts
+end_time: 1722551077636
+entry_point_name: ''
+experiment_id: '423656557908454039'
+lifecycle_stage: active
+run_id: 5ce23b3a20d74fea9b4f3a3c673a2f2c
+run_name: judicious-wasp-941
+run_uuid: 5ce23b3a20d74fea9b4f3a3c673a2f2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722551074860
+status: 3
+tags: []
+user_id: jared

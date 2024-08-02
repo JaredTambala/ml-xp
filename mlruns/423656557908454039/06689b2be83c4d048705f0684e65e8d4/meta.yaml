@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jared/ml-xp/mlruns/423656557908454039/06689b2be83c4d048705f0684e65e8d4/artifacts
+end_time: 1722551022484
+entry_point_name: ''
+experiment_id: '423656557908454039'
+lifecycle_stage: active
+run_id: 06689b2be83c4d048705f0684e65e8d4
+run_name: chill-bee-510
+run_uuid: 06689b2be83c4d048705f0684e65e8d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722551019731
+status: 3
+tags: []
+user_id: jared

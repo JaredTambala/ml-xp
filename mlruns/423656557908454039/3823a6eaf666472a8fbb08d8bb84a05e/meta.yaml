@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jared/ml-xp/mlruns/423656557908454039/3823a6eaf666472a8fbb08d8bb84a05e/artifacts
+end_time: 1722551019714
+entry_point_name: ''
+experiment_id: '423656557908454039'
+lifecycle_stage: active
+run_id: 3823a6eaf666472a8fbb08d8bb84a05e
+run_name: magnificent-grub-347
+run_uuid: 3823a6eaf666472a8fbb08d8bb84a05e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722551016800
+status: 3
+tags: []
+user_id: jared

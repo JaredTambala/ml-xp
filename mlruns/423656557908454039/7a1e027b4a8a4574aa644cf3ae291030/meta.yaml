@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jared/ml-xp/mlruns/423656557908454039/7a1e027b4a8a4574aa644cf3ae291030/artifacts
+end_time: 1722550988303
+entry_point_name: ''
+experiment_id: '423656557908454039'
+lifecycle_stage: active
+run_id: 7a1e027b4a8a4574aa644cf3ae291030
+run_name: efficient-crab-849
+run_uuid: 7a1e027b4a8a4574aa644cf3ae291030
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722550985543
+status: 3
+tags: []
+user_id: jared

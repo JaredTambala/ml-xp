@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jared/ml-xp/mlruns/423656557908454039/13e694d9afb84bfea61fb4c7e6d38eaa/artifacts
+end_time: 1722550974375
+entry_point_name: ''
+experiment_id: '423656557908454039'
+lifecycle_stage: active
+run_id: 13e694d9afb84bfea61fb4c7e6d38eaa
+run_name: bright-gnu-264
+run_uuid: 13e694d9afb84bfea61fb4c7e6d38eaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722550970952
+status: 3
+tags: []
+user_id: jared

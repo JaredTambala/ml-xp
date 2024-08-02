@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jared/ml-xp/mlruns/423656557908454039/efeab3fa939e49b2ba5c059f48ff0451/artifacts
+end_time: 1722550993790
+entry_point_name: ''
+experiment_id: '423656557908454039'
+lifecycle_stage: active
+run_id: efeab3fa939e49b2ba5c059f48ff0451
+run_name: gifted-cod-201
+run_uuid: efeab3fa939e49b2ba5c059f48ff0451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722550991080
+status: 3
+tags: []
+user_id: jared

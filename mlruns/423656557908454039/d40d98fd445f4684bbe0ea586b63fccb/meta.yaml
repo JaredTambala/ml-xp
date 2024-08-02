@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jared/ml-xp/mlruns/423656557908454039/d40d98fd445f4684bbe0ea586b63fccb/artifacts
+end_time: 1722551039238
+entry_point_name: ''
+experiment_id: '423656557908454039'
+lifecycle_stage: active
+run_id: d40d98fd445f4684bbe0ea586b63fccb
+run_name: righteous-bass-158
+run_uuid: d40d98fd445f4684bbe0ea586b63fccb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722551036538
+status: 3
+tags: []
+user_id: jared

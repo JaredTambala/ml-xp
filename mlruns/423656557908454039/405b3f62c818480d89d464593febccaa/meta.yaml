@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jared/ml-xp/mlruns/423656557908454039/405b3f62c818480d89d464593febccaa/artifacts
+end_time: 1722551069349
+entry_point_name: ''
+experiment_id: '423656557908454039'
+lifecycle_stage: active
+run_id: 405b3f62c818480d89d464593febccaa
+run_name: trusting-shoat-43
+run_uuid: 405b3f62c818480d89d464593febccaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722551066644
+status: 3
+tags: []
+user_id: jared

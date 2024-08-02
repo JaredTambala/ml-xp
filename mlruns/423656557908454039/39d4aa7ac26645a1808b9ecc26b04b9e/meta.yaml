@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jared/ml-xp/mlruns/423656557908454039/39d4aa7ac26645a1808b9ecc26b04b9e/artifacts
+end_time: 1722551072086
+entry_point_name: ''
+experiment_id: '423656557908454039'
+lifecycle_stage: active
+run_id: 39d4aa7ac26645a1808b9ecc26b04b9e
+run_name: capricious-hound-753
+run_uuid: 39d4aa7ac26645a1808b9ecc26b04b9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722551069366
+status: 3
+tags: []
+user_id: jared

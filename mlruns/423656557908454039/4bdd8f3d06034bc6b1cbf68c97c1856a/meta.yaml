@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jared/ml-xp/mlruns/423656557908454039/4bdd8f3d06034bc6b1cbf68c97c1856a/artifacts
+end_time: 1722550982692
+entry_point_name: ''
+experiment_id: '423656557908454039'
+lifecycle_stage: active
+run_id: 4bdd8f3d06034bc6b1cbf68c97c1856a
+run_name: gentle-bass-793
+run_uuid: 4bdd8f3d06034bc6b1cbf68c97c1856a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722550979974
+status: 3
+tags: []
+user_id: jared
